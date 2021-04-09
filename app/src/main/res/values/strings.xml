@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RecipeHolder</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="ask_delete">Delete this recipe</string>
+    <!-- Strings for Text Views -->
+    <string name="Filter">Filter</string>
+    <string name="Taste">Taste</string>
+    <string name="Type">Type</string>
+    <string name="Time">Time to make</string>
+
+
+    <!-- Strings for default values of EditText-->
+    <string name="Name">Name</string>
+    <string name="Url">URL</string>
+
+    <string name="Add">Add</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Confirm">Confirm</string>
+
+
+</resources>
